@@ -45,7 +45,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/YYRi9">
-          <img src="https://user-images.githubusercontent.com/64270501/229427845-baa363e0-94da-48d7-8684-55334c50860e.jpeg" alt="이유리" width="64" />
+          <img src="https://user-images.githubusercontent.com/64270501/229572971-560108f8-af63-444b-b739-5c66785c00d3.jpeg" alt="이유리" width="64" />
           <br />
           이유리
         </a>
