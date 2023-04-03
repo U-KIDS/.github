@@ -31,7 +31,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/MEGUMMY1">
-          <img src="https://user-images.githubusercontent.com/64270501/229428282-657daa8a-4f52-4390-9153-e937821c005c.jpeg" alt="조혜진" width="64" />
+          <img src="https://user-images.githubusercontent.com/64270501/229565247-27bc64ba-841e-4deb-9760-70a59f080a98.jpeg" alt="조혜진" width="64" />
           <br />
           조혜진
         </a>
