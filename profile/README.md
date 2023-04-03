@@ -16,7 +16,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/wwan13">
-          <img src="https://media.licdn.com/dms/image/C5603AQHdUB0Mb9TFfw/profile-displayphoto-shrink_400_400/0/1663760190892?e=1684368000&v=beta&t=D1fiMYCKwzqAJpDrVXlRvYT66TvdqFtA__zR9L9UoCY" alt=김태완"
+          <img src="https://user-images.githubusercontent.com/64270501/229423319-cea65f7b-7fa6-4920-a5ce-f4aa6aa316c9.jpg" alt="김태완"
           width="64" />
           <br />
           김태완
