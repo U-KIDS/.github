@@ -1,15 +1,15 @@
 # 👨‍👩‍👦 U-KIDS
 
 ## 🏠 Team Members
-
+<br/>
 <table align="center">
   <thead>
     <tr>
-      <th align="center">(PM) Backend Developer</th>
-      <th align="center">Frontend Developer</th>
-      <th align="center">Frontend Developer</th>
-      <th align="center">Backend Developer</th>
-      <th align="center">Backend Developer</th>
+      <th align="center" width="180">[PM] Infra</th>
+      <th align="center" width="180">Frontend Developer</th>
+      <th align="center" width="180">Frontend Developer</th>
+      <th align="center" width="180">Backend Developer</th>
+      <th align="center" width="180">Backend Developer</th>
     </tr>
   </thead>
   <tbody>
