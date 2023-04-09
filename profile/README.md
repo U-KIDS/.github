@@ -5,7 +5,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th align="center" width="180">[PM] Infra</th>
+      <th align="center" width="180">[PM] Infra Engineer</th>
       <th align="center" width="180">Frontend Developer</th>
       <th align="center" width="180">Frontend Developer</th>
       <th align="center" width="180">Backend Developer</th>
